@@ -18,3 +18,7 @@ totally personal note.
 ## Config
 
 - [how to use dotenv file](/config/howToUseDotenvFile.md)
+
+## HTTP(s)
+
+- [how to set cors from HTTP(s)](/http/howToSetCORSFromHTTPs.md)
