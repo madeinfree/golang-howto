@@ -2,7 +2,7 @@
 
 when I want to upload file to s3 with public identity pool, how should I do ?
 
-dep: [aws-sdk-go](github.com/aws/aws-sdk-go/)
+dep: [aws-sdk-go](https://github.com/aws/aws-sdk-go/)
 
 ```go
 region := "Region"

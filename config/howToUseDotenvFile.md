@@ -2,7 +2,7 @@
 
 how to use local .env file ?
 
-deps: [godotenv](github.com/joho/godotenv)
+deps: [godotenv](https://github.com/joho/godotenv)
 
 `.env`
 
