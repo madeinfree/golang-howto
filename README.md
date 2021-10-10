@@ -14,3 +14,7 @@ totally personal note.
 ## AWS
 
 - [how to upload file to s3 use identity pool id](/aws/credentials/howToUseIdentityPoolId.md)
+
+## Config
+
+- [how to use dotenv file](/config/howToUseDotenvFile.md)
