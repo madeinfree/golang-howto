@@ -13,4 +13,4 @@ totally personal note.
 
 ## AWS
 
-- [how to upload file to s3 use identity pool id](/aws/howToUseIdentityPoolId.md)
+- [how to upload file to s3 use identity pool id](/aws/credentials/howToUseIdentityPoolId.md)

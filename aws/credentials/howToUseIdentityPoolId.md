@@ -35,13 +35,13 @@ if cancel != nil {
 }
 
 _, err = svc.PutObjectWithContext(ctx, &s3.PutObjectInput{
-		Bucket:          aws.String(bucket),
-		Key:             aws.String(fileKey),
-		Body:            body,
-		ACL:             aws.String(s3.BucketCannedACLPublicRead),
-		ContentEncoding: aws.String(fileEncode),
-		ContentType:     aws.String(fileType),
-	})
+  Bucket:          aws.String(bucket),
+  Key:             aws.String(fileKey),
+  Body:            body,
+  ACL:             aws.String(s3.BucketCannedACLPublicRead),
+  ContentEncoding: aws.String(fileEncode),
+  ContentType:     aws.String(fileType),
+})
 
 if err != nil {
 if aerr, ok := err.(awserr.Error); ok && aerr.Code() == request.CanceledErrorCode {
