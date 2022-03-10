@@ -6,6 +6,10 @@ totally personal note.
 
 - [how to open file](/file/howToOpenFile.md)
 
+## Time
+
+- [how to compare date is same today](/time/compareDateIsToday.md)
+
 ## Image
 
 - [how to open image file](/image/openImage.md)
